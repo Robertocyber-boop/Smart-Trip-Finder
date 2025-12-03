@@ -1,4 +1,4 @@
-# Smart Trip Finder
+# FlightHunter AI
 
 Questo progetto Python automatizza la ricerca dei voli tramite
 **Trip.com**, utilizzando **Selenium** per la navigazione web e l'API di
